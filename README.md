@@ -1,2 +1,2 @@
 # Cloud-Engineering-projects
-These are the projects ai
+These are some of the projects I have completed regarding cloud engineering
