@@ -76,7 +76,7 @@ Link: Actions · SireDestiny/-eShopOnWeb (github.com)
 - Modified the GitHub workflow to trigger on every push to the master branch.  
 - The workflow runs jobs such as build, test and publish. Then, it uploads the bicep template as artifacts. 
 - It uses bicep to deploy infrastructure and publish a webapp. 
-- It downloads published files and bicep templates, it logs in to Azure to deploy the webapp. 
+- It downloads published files and bicep templates, and it logs in to Azure to deploy the webapp. 
 - Finally, it publishes the website to Azure App Service (WebApp).
 
 
