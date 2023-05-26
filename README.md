@@ -2,11 +2,11 @@
 These are some of the Cloud Engineering projects that I have completed.
 
   Plan Agile with GitHub Projects and Azure Boards: Link: https://dev.azure.com/ogunleretomi/Agile%20Planning%20and%20Portfolio%20Management%20with%20Azure%20Boards/_workitems/recentlyupdated/
-    - Tools: Azure DevOps Organization, Azure DevOps Server
-        - Aim: Agile process of planning, managing and tracking work across the entire team.
+  - Tools: Azure DevOps Organization, Azure DevOps Server
+  - Aim: Agile process of planning, managing and tracking work across the entire team.
   - This work entails working with GitHub projects, GitHub projects boards and Azure boards. 
-  - It explored ways to configure, manage and integrate Azure boards and Github.
-   - Customized project view, and explored collaboration using team discussions.
+  - Explored ways to configure, manage and integrate Azure boards and Github.
+  - Customized project view, and explored collaboration using team discussions.
   - Managed teams, areas and iterations.
   - Managed work items, sprints and capacity.
   - Defined dashboards, Kanban boards, and customized team processes.
@@ -40,13 +40,12 @@ GitHub link https://github.com/actionsdemos/calculator/compare/master...SireDest
 
 
 Configuring Pipelines as Code with YAML: https://dev.azure.com/ogunleretomi/Configuring%20Pipelines%20as%20Code%20with%20YAML/_build/results?buildId=20&view=results
-- Link: Pipelines - Run 20221203.2 (azure.com)
 - Tools/ Tags: Azure Portal, Bash Scripting, YAML, CI, CD.
 - This project aimed to define build and release pipelines using YAML.
 - Created Azure resources such as resource group, App service plan from the Azure portal.
 - Configured CI/CD as code with YAML in Azure DevOps. 
 - Added a YAML build definition, added continuous delivery to the YAML definition
-- Implementing GitHub Actions for CI/CD: https://github.com/SireDestiny/-eShopOnWeb/actions
+
 
 Controlling Deployments using Release Gates: https://dev.azure.com/ogunleretomi/Controlling%20Deployments%20using%20Release%20Gates/_releaseProgress?_a=release-pipeline-progress&releaseId=1
 Tools/ Tags: Azure subscription, Azure DevOps Organization, Resource Group,  Azure App Service, Cloud Shell, Bash scripting,  CI/CD,  
@@ -68,8 +67,9 @@ Deploying Docker containers to Azure App Service web apps: https://dev.azure.com
 - Added a role assignment to allow Azure App Service to pull the docker image from Azure Container Registry. 
 - I imported and ran a CD pipeline.
 
+
 Implementing GitHub Actions for CI/CD
-Link: Actions · SireDestiny/-eShopOnWeb (github.com)
+Link: (https://github.com/SireDestiny/-eShopOnWeb/actions)
 - This project was done to implement a GitHub workflow for CI/CD that deploys an Azure web app using DevOps starter.
 - Tools/ Tags: Azure subscription, Cloud Shell, Bash scripting, GitHub, GitHub Actions, CI/CD, Resource Group, Azure Service Plan, App Service.
 - Imported an existing repository into a newly created repository in my GitHub account. 
