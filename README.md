@@ -26,8 +26,8 @@ link: https://dev.azure.com/ogunleretomi/Version%20Controlling%20with%20Git%20in
 - Applied tags to the repository. 
 
 
-Integrating External Source Control with Azure Pipelines: Azure devops link - https://dev.azure.com/ogunleretomi/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build?definitionId=10 
- GitHub link https://github.com/actionsdemos/calculator/compare/master...SireDestiny:calculator:master
+Integrating External Source Control with Azure Pipelines: Azure devops link : https://dev.azure.com/ogunleretomi/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build?definitionId=10 
+GitHub link: https://github.com/actionsdemos/calculator/compare/master...SireDestiny:calculator:master
 - Tools: GitHub, Azure Pipelines (CI/CD), Azure DevOps Organization.
 - This project was hosted on GitHub. 
 - Used Azure pipeline integration to integrate the GitHub project and Azure DevOps.
